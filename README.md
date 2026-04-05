@@ -3,6 +3,10 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Computer Vision | Robotics | Python Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Enthusiast;Robotics+%2B+AI+Builder;Turning+Ideas+into+Intelligent+Systems" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Hridyanmohan"><img src="https://img.shields.io/github/followers/Hridyanmohan?label=Followers&style=social" /></a>
   <a href="https://github.com/Hridyanmohan"><img src="https://img.shields.io/github/stars/Hridyanmohan?label=Stars&style=social" /></a>
 </p>
@@ -72,12 +76,29 @@
 - 🧠 Scalable **ML Systems**
 
 ---
-
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/hridya-n-553198292  
-- 📺 YouTube: https://www.youtube.com/@hridyanmohann  
-- 📧 Email: hridyamohanan.i@gmail.com  
 
+<p align="center">
+  <a href="mailto:hridyamohanan.i@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hridya-n-553198292">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hridyanmohan">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@hridyanmohann">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="30" />
+  </a>
+</p>
+
+<p align="center">
+  Email • LinkedIn • GitHub • YouTube
+</p>
 ---
 
 ## ✨ Quote
