@@ -52,15 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hridyanmohan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyanmohan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hridyanmohan&theme=tokyonight&hide_border=true" />
